@@ -1,6 +1,6 @@
-# issues-snapshots
+# issues-screenshots
 
-Sample to go throw multiple camera orientations, generate snapshots and saving those as images
+Sample to go throw multiple camera orientations, generate screenshots and saving those as images
 
 ![Platforms](https://img.shields.io/badge/Web-Windows%20%7C%20MacOS%20%7C%20Linux-lightgray.svg)
 [![Data-Management](https://img.shields.io/badge/Viewer-v7-green.svg)](http://developer.autodesk.com/)
