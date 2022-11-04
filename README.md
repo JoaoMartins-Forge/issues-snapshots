@@ -24,7 +24,7 @@ From any specific configuration, you can use [getCameraFromViewArray](https://fo
 
 You can run this sample live here:
 
-https://joaomartins-forge.github.io/issues-snapshots/index.html
+https://joaomartins-forge.github.io/issues-screenshots/index.html
 
 ## License
 
